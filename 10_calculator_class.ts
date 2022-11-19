@@ -12,7 +12,7 @@ mul(x: number, y: number) : number {
  }
 
  div(x: number, y: number) : number {
-    return x *y ;
+    return x /y ;
  }
 
 
